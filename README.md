@@ -49,8 +49,6 @@ Right now this profile showcases a Pac-Man game built from my GitHub contributio
 ---
 
 <p align="center">
-  Open to <b>senior AI engineering / full-stack architecture</b> roles and <b>AI advisory</b> conversations.
-  <br><br>
   <a href="https://www.linkedin.com/in/pratyush-kumar-82244319a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
